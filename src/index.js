@@ -171,7 +171,7 @@ export default class Datepicker {
 
     // create the wrapping element
     this.wrapper = document.createElement('div')
-    this.wrapper.style.zIndex = 9999
+    // this.wrapper.style.zIndex = 9999
 
     // insert our element into the dom
     if (elem.parentNode) {
