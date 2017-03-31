@@ -17,18 +17,19 @@
 }
 
 .datepicker table th {
-  color: #90CAF9;
+  color: #444444;
   text-transform: uppercase;
   font-size: 0.5rem;
   line-height: 4;
   font-weight: bold;
   text-align: center;
+  font-family: 'Univers LT W01 45 Light', Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 .datepicker__wrapper {
   color: #333;
   border-radius: 0.125rem;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Univers LT W01 45 Light', Helvetica Neue, Helvetica, Arial, sans-serif;
   padding: 0.5rem;
   position: relative;
   z-index: 1;
@@ -153,7 +154,7 @@
 
 .datepicker__day div:hover,
 .datepicker__day.is-highlighted div {
-  background: #E3F2FD;
+  background: #c9e39f;
 }
 
 .datepicker__day.is-today {
