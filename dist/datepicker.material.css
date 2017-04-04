@@ -1,5 +1,6 @@
 .datepicker {
   display: inline-block;
+  width: 100%;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
@@ -35,7 +36,6 @@
   z-index: 1;
   background: white;
   border: solid 1px #cecaca;
-  width: 16rem;
 }
 
 .datepicker__wrapper::after {
