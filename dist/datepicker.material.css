@@ -49,6 +49,10 @@
   margin: 0.25rem 0;
 }
 
+.datepicker__day:not(.is-disabled) {
+  font-family: 'Univers LT W01 65 Bold', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
 .datepicker__header {
   position: relative;
   text-align: center;
