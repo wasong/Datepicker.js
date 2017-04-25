@@ -166,7 +166,7 @@
 }
 
 .datepicker__day.is-today div::after {
-  box-shadow: inset 0 0 0 1px currentColor;
+  box-shadow: inset 0 0 0 1px #77a22f;
 }
 
 .datepicker__day.is-today.is-disabled.is-selected div::after,
