@@ -365,7 +365,7 @@ export default class Datepicker {
 
     // previous month
     if (el.hasAttribute('data-prev')) {
-      this.prev(el.dataset.prev)
+      // this.prev(el.dataset.prev)
 
     // next month
     } else if (el.hasAttribute('data-next')) {
